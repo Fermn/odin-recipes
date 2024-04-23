@@ -1,5 +1,5 @@
 # odin-recipes
 
-This simple project will be testing my HTML chops.
+This simple project will test my HTML chops.
 
-Will add CSS at a later time.
+Will add some CSS at a later time.
